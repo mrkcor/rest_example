@@ -1,6 +1,6 @@
 # REST example
 
-This repository has an example REST service and an example REST client that go with an article that you can read here: https://without-brains.net/
+This repository has an example REST service and an example REST client that go with an article that you can read here: https://without-brains.net/2020/09/13/consuming-a-rest-api-with-the-ruby-standard-library
 
 # Running the server
 
